@@ -1,0 +1,284 @@
+[33mcommit c3389b24a4c3456bb4fb2ed54caf863cb56536ec[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 7fb03f9 ce7f846
+Author: btxbtxbtx <nmzh.nik@proton.me>
+Date:   Mon Apr 24 17:18:51 2023 +0800
+
+    Merge branch 'main' of https://github.com/btxbtxbtx/bew
+
+[33mcommit 7fb03f939d3f526a4da0a049272ef570a5db7a0d[m
+Merge: de060f5 6b36b25
+Author: btxbtxbtx <nmzh.nik@proton.me>
+Date:   Mon Apr 24 17:15:55 2023 +0800
+
+    Merge remote-tracking branch 'upstream/main'
+
+[33mcommit 6b36b255efe29a3f8dd30be6c0047da3ff3c633b[m[33m ([m[1;31mupstream/main[m[33m)[m
+Merge: 71aa9d0 e5e2f6c
+Author: Yifei Zhang <yidadaa@qq.com>
+Date:   Mon Apr 24 15:26:36 2023 +0800
+
+    Merge pull request #1016 from PeterDaveHello/improve-tw-locale
+    
+    Improve tw locale
+
+[33mcommit e5e2f6c2e1c293efcb0b41b254f4cd12ec374440[m
+Author: Peter Dave Hello <hsu@peterdavehello.org>
+Date:   Sun Apr 23 00:57:55 2023 +0800
+
+    Improve tw locale
+
+[33mcommit 71aa9d05ed0bae63039e6c8db20b3b287a951898[m
+Merge: 2efba6e 725054c
+Author: Yifei Zhang <yidadaa@qq.com>
+Date:   Sun Apr 23 10:55:58 2023 +0800
+
+    Merge pull request #1019 from yunwuu/main
+    
+    fix: raw.split is not a function
+
+[33mcommit 725054c7d569f4d7b63def9b3bd3bb1b70cd3bda[m
+Author: 雲霧 <123147018+yunwuu@users.noreply.github.com>
+Date:   Sun Apr 23 10:51:34 2023 +0800
+
+    fix: raw.split is not a function
+
+[33mcommit 2efba6ea6fd04ab47a67fecafe0085ab29d106a2[m
+Merge: e7796f9 818629e
+Author: Yifei Zhang <yidadaa@qq.com>
+Date:   Sun Apr 23 01:57:30 2023 +0800
+
+    Merge pull request #1015 from yunwuu/main
+    
+    fix typo & add timeout to stuck request
+
+[33mcommit e7796f902a2b01bad4592b1a839a58f8df3283f6[m
+Merge: 8d0a420 5d2fb87
+Author: Yifei Zhang <yidadaa@qq.com>
+Date:   Sun Apr 23 01:55:50 2023 +0800
+
+    Merge pull request #1011 from eltociear/patch-1
+    
+    Update README.md
+
+[33mcommit 818629e58bdc96b30e83320ed863a41d4118bf96[m
+Author: 雲霧 <123147018+yunwuu@users.noreply.github.com>
+Date:   Sun Apr 23 00:17:00 2023 +0800
+
+    chore: add timeout to prompt download request
+
+[33mcommit 1761289716aba1e6c6745d7e313dd837e463b4ee[m
+Author: 雲霧 <123147018+yunwuu@users.noreply.github.com>
+Date:   Sat Apr 22 23:53:58 2023 +0800
+
+    fix: typo
+
+[33mcommit 5d2fb8791ccaacc6baf873a26c842fd1c47e9427[m
+Author: Ikko Eltociear Ashimine <eltociear@gmail.com>
+Date:   Sun Apr 23 00:07:16 2023 +0900
+
+    Update README.md
+    
+    Github -> GitHub
+
+[33mcommit 8d0a420cc881533eef573e1f04f43a5d4ba975e8[m
+Merge: 56d098c 79f58f5
+Author: Yifei Zhang <yidadaa@qq.com>
+Date:   Sat Apr 22 01:18:38 2023 +0800
+
+    Merge pull request #991 from yunwuu/main
+    
+    fix: typo
+
+[33mcommit 79f58f5c6ad61e321c24c039e8e17607bd8d0397[m
+Author: 雲霧 <123147018+yunwuu@users.noreply.github.com>
+Date:   Sat Apr 22 00:47:15 2023 +0800
+
+    fix: typo
+
+[33mcommit 56d098c31711a72bc0133ad3753ffbb25d836c47[m
+Merge: 4ca0ed3 4d45c07
+Author: Yifei Zhang <yidadaa@qq.com>
+Date:   Sat Apr 22 00:43:44 2023 +0800
+
+    Merge pull request #980 from 0x9be00ff1/fix-presence-penalty-step
+    
+    [Fix] adjust presence_penalty step 0.1
+
+[33mcommit 4ca0ed377924dcec5e835a28121d112ef84398d8[m
+Merge: d053bee ae479f4
+Author: Yifei Zhang <yidadaa@qq.com>
+Date:   Sat Apr 22 00:42:10 2023 +0800
+
+    Merge pull request #987 from Yidadaa/bugfix-0421
+    
+    Bugfix 0421
+
+[33mcommit ae479f4a92d1f5a20cfd5265a932bc329a029d58[m
+Author: Yidadaa <yidadaa@qq.com>
+Date:   Sat Apr 22 00:12:07 2023 +0800
+
+    fix: #963 config not work
+
+[33mcommit ab826363ea4d585becb70d53778d45c0aa312403[m
+Author: Yidadaa <yidadaa@qq.com>
+Date:   Fri Apr 21 23:37:25 2023 +0800
+
+    fix: #965 improve loading animation
+
+[33mcommit e1ce1f2f4002abbb0cb86cf688957457e92afb90[m
+Author: Yidadaa <yidadaa@qq.com>
+Date:   Fri Apr 21 23:28:53 2023 +0800
+
+    feat: close #976 esc to close modal
+
+[33mcommit 209a727fe92d9dac8e33c49a83efef702c661a7e[m
+Author: Yidadaa <yidadaa@qq.com>
+Date:   Fri Apr 21 23:22:02 2023 +0800
+
+    feat: close #928 summarize with gpt3.5
+
+[33mcommit 4d45c07bf2096e9f12c142c010e3893c905d35f1[m
+Author: Zhenyu Zhu <zoozy.cn@gmail.com>
+Date:   Fri Apr 21 18:52:32 2023 +0800
+
+    fix: adjust presence_penalty step 0.1
+
+[33mcommit d053bee8d34a2264c754516ae9c5e17759a9b303[m
+Merge: 0b36daf 596a468
+Author: Yifei Zhang <yidadaa@qq.com>
+Date:   Fri Apr 21 18:15:55 2023 +0800
+
+    Merge pull request #979 from jzjwonderful/bug-978
+    
+    [Bug] Unsupported Linux distribution when running setup.sh on Ubuntu OS
+
+[33mcommit 596a46846ad675c6a9304bd59700a13a47b5653e[m
+Author: jzjwonderful <jzjwonderful@outlook.com>
+Date:   Fri Apr 21 17:26:40 2023 +0800
+
+    fix bug 978
+
+[33mcommit 0b36daf6acc24ac33d3212ff954aa6602ce5b00f[m
+Merge: a62bca4 ffb0fa2
+Author: Yifei Zhang <yidadaa@qq.com>
+Date:   Fri Apr 21 14:55:01 2023 +0800
+
+    Merge pull request #968 from shih-liang/patch-2
+    
+    修复 Edge Runtime 设置失效问题
+
+[33mcommit ffb0fa25f1eeb961692b45d3d2df017b8001d7d7[m
+Merge: 8966fd3 b6a7104
+Author: Shi Liang <7258605+shih-liang@users.noreply.github.com>
+Date:   Fri Apr 21 13:08:01 2023 +0800
+
+    Merge pull request #1 from shih-liang/patch-1
+    
+    chat-stream: runtime = "experimental-edge";
+
+[33mcommit 8966fd3b23935e86212840e17577d18d263ccac9[m
+Author: Shi Liang <7258605+shih-liang@users.noreply.github.com>
+Date:   Fri Apr 21 13:03:38 2023 +0800
+
+    openai runtime = "experimental-edge";
+
+[33mcommit b6a7104b60b462f79cbdd7be6b5b8f4285196b62[m
+Author: Shi Liang <7258605+shih-liang@users.noreply.github.com>
+Date:   Fri Apr 21 13:03:02 2023 +0800
+
+    chat-stream: runtime = "experimental-edge";
+
+[33mcommit a62bca442e7a1a409223266cc4800f0292d4f44a[m
+Merge: ee0f847 82ad057
+Author: Yifei Zhang <yidadaa@qq.com>
+Date:   Fri Apr 21 02:54:56 2023 +0800
+
+    Merge pull request #959 from Yidadaa/0420-mask
+    
+    refactor: close #643 use react router
+
+[33mcommit 82ad0573be93b0ee43f9cc52b865ea8878988dfa[m
+Author: Yidadaa <yidadaa@qq.com>
+Date:   Fri Apr 21 02:52:53 2023 +0800
+
+    feat: close #380 collapse side bar
+
+[33mcommit 5185166e3b5b1f2b802833c79565c51c766b912e[m
+Author: Yidadaa <yidadaa@qq.com>
+Date:   Fri Apr 21 01:18:49 2023 +0800
+
+    fixup
+
+[33mcommit 693dcf12d6c6ddd610b12bbc85ebab0474e46256[m
+Author: Yidadaa <yidadaa@qq.com>
+Date:   Fri Apr 21 01:12:39 2023 +0800
+
+    refactor: close #643 use react router
+
+[33mcommit ee0f8478279df5f37add244ae9fd8a39824c50a1[m
+Merge: b2c711a 55281ed
+Author: Yifei Zhang <yidadaa@qq.com>
+Date:   Thu Apr 20 23:31:43 2023 +0800
+
+    Merge pull request #955 from Yidadaa/bugfix-0420
+    
+    Bugfix 0420
+
+[33mcommit 55281ed5485d67d1d8ae555114a828cc3bcc8f48[m
+Author: Yidadaa <yidadaa@qq.com>
+Date:   Thu Apr 20 23:20:25 2023 +0800
+
+    feat: reactive isMobileScreen
+
+[33mcommit 2390da11651c80bd3e0fd3935063614a5694aa02[m
+Author: Yidadaa <yidadaa@qq.com>
+Date:   Thu Apr 20 23:09:42 2023 +0800
+
+    fix: #930 wont show delete for first message
+
+[33mcommit 06d503152bcba1ad9175441709d7e5c3044eea0a[m
+Author: Yidadaa <yidadaa@qq.com>
+Date:   Thu Apr 20 23:04:58 2023 +0800
+
+    feat: close #928 summarize with gpt-3.5
+
+[33mcommit 2e9e69d66c56a0d0a2468b6456477d156980126b[m
+Author: Yidadaa <yidadaa@qq.com>
+Date:   Thu Apr 20 22:58:19 2023 +0800
+
+    fixup
+
+[33mcommit e3d2dd72794aa3d2b63c477231d54b0df62111e6[m
+Author: Yidadaa <yidadaa@qq.com>
+Date:   Thu Apr 20 22:55:14 2023 +0800
+
+    feat: close #427 add OPENAI_ORG_ID
+
+[33mcommit 7e8973c9ffba853b46ea9d795b1a05e81828ed37[m
+Author: Yidadaa <yidadaa@qq.com>
+Date:   Thu Apr 20 22:52:14 2023 +0800
+
+    feat: close #291 gpt-4 model uses black icon
+
+[33mcommit b2c711a5e847c33dca139e2e0694c67f0fda4618[m
+Merge: beb04d8 21da781
+Author: Yifei Zhang <yidadaa@qq.com>
+Date:   Wed Apr 19 22:23:12 2023 +0800
+
+    Merge pull request #933 from yinm0591/main
+    
+    Added support for organization ID
+
+[33mcommit 21da781350e88edde1842b74097c7908bd5c93be[m
+Author: Yin Min <yinmin@hotmail.com>
+Date:   Wed Apr 19 19:28:33 2023 +0800
+
+    Update common.ts
+    
+    Add OrgID
+
+[33mcommit beb04d81811d260358411a74e61ef3f530f092a1[m
+Author: Yifei Zhang <yidadaa@qq.com>
+Date:   Wed Apr 19 15:36:10 2023 +0800
+
+    Upd
